@@ -1,3 +1,3 @@
 # translate-repo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/translate-repo)
+Live demo: https://translate-repo.stackblitz.io/
