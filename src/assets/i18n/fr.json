@@ -2,5 +2,8 @@
   "HOME": {
     "TITLE": "Bonjour Angular avec ngx-translate !",
     "SELECT": "Changer la langue"
+  },
+    "PROFILE": {
+    "DESCRIPTION":"Je suis Eli Labourne de Torres, ingénieur en informatique, je suis diplômé de PUP et travaille actuellement en tant que développeur Web"
   }
 }
